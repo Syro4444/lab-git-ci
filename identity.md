@@ -1,4 +1,4 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
+* first_name: Norman
+* last_name: Nourry
