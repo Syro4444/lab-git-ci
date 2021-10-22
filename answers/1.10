@@ -1,0 +1,4 @@
+- Master : Branche Maitre avec le code source fonctionnel du projet destiné a la mise en prod
+- Develop : Branche utilisée par les developpeur ou sont ajoutés les changements qui seront testés avant d'etre mergé vers Master
+-Feature : Branche sur laquelle on développe la feature en question qu'on ira ensuite merger vers Develop
+-Strange : Branche utilisé pour nous faire répondre aux questions de cours
